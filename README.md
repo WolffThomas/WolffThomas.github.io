@@ -2,7 +2,17 @@
 
 ## Lire les premiers articles
 
-Voir http://thomasw.fr ou les consulter en format source (html) sur https://github.com/WolffThomas/blog/tree/master/posts.
+* http://thomasw.fr
+* https://github.com/WolffThomas/blog/tree/master/posts
+
+## Réutiliser les articles
+
+Les articles sont pour l'instant publiés en format html.
+
+Pour les exporter en markdown, word, pdf, latex, ...
+
+* utiliser [pandoc en ligne](http://pandoc.org/try) - facile
+* utiliser [pandoc](http://pandoc.org/) en ligne de commande - complet
 
 ## Licences
 
@@ -11,11 +21,7 @@ Voir http://thomasw.fr ou les consulter en format source (html) sur https://gith
 Les contenus écrits et photographiques du site http://thomasw.fr sont mis à disposition selon la licence [Creative Communs 4.0 Internationnal](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 
 Vous êtes ainsi autorisés à: *Partager* — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats / *Adapter* — remixer, transformer et créer à partir du matériel
-pour toute utilisation, y compris commerciale. 
-
-Selon les conditions suivantes: Attribution + Partage dans les Mêmes Conditions.
-
-[Consulter la licence](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
+pour toute utilisation, y compris commerciale. Selon les conditions suivantes: *Attribution* + *Partage dans les Mêmes Conditions.* [Consulter la licence](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
 
 ### Code source 
 
