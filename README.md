@@ -15,7 +15,7 @@ pour toute utilisation, y compris commerciale.
 
 Selon les conditions suivantes: Attribution + Partage dans les Mêmes Conditions.
 
-[En savoir plus sur cette licence](Creative Communs 4.0 Internationnal](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
+[Consulter la licence](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
 
 ### Code source 
 
