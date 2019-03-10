@@ -1,0 +1,14 @@
+title: Thomas Wolff
+description: >
+  Des pensées et des documentations qui ne trouvent leur place nul part ailleurs qu'ici ;).
+baseurl: 
+url: 
+paginate:	3 # The number of posts to show per page on your homepage
+name: "Thomas Wolff"
+markdown: kramdown
+permalink: none
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate
+  - jekyll-feed
