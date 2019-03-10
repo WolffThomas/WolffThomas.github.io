@@ -5,9 +5,11 @@ title: Rénovation d'un camping car, et c'est parti pour le voyage en famille
 
 #Rénovation d'un camping car / photos & cie
 
-En mai 2018 [nous annoncions](https://www.facebook.com/wollfthomas/posts/587067824999102) notre départ pour une période nomade à durée indéterminée, en famille, en France et au delà. Les travaux sur le camping car avaient débuté en mars 2018. Et finalement très peu étaient au courant quand nous sommes partis.
+En mai 2018 [nous annoncions](https://www.facebook.com/wollfthomas/posts/587067824999102) notre départ pour une période à durée indéterminée, en famille. *Itinérance*. 
 
-Nous souhaitions vous partager ces quelques photos de comment nous avons transformé la base de l'intérieur. Nous avons acheté un vieux camping car *Bürstner* de *1992*. Rénover l'intérieur était un beau défi et une phase précieuse pour nous aider à nous projeter et préparer ensemble le départ. Tout comme apprendre la mécanique ensemble au fur et à mesure. 
+Les travaux sur le camping car avaient débuté en mars 2018. Très peu étaient au courant quand nous sommes partis.
+
+Nous souhaitions vous partager ces quelques photos de comment nous avons transformé  son intérieur. Nous avons acheté un vieux camping car *Burstner* de *1992*. Rénover l'intérieur était un beau défi et une phase précieuse pour nous aider à nous projeter et préparer ensemble le départ. Tout comme apprendre la mécanique ensemble au fur et à mesure. 
 
 ![Camping-car: rénovation](../assets/img/posts/renovation-camping-car.jpg)
 ![Rénover: poncer c'est important](../assets/img/posts/renovation-camping-car-12.jpg)
