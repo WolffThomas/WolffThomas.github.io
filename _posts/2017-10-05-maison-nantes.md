@@ -3,7 +3,8 @@ layout: post
 title: Une maison nantaise ouverte aux nomades et philosophes
 ---
 
-# Un lit, un beau jardin, un repas,
+Un lit, un beau jardin, un repas,
+===
 
 *Une maison nantaise ouverte aux nomades et philosophes*
 
@@ -26,7 +27,8 @@ pluridisciplinaires partagent pour accélérer leurs projets. Il s'agit à
 la fois d'un lieu de repos et d'émulation. Concept né dans la *Silicon
 Valley*.</span>
 
-## Informations et localisation
+Informations et localisation
+---
 
 La maison est presque toujours ouverte. Parfois, nous ne sommes pas là
 ou alors nous avons envie d'être seuls, <span
@@ -55,7 +57,8 @@ salon.</span>
 
 Si vous avez votre propre sac de couchage, ça nous arrange.
 
-## Intentions et aspirations
+Intentions et aspirations
+---
 
 > Ce qui est important pur moi c'est qu'ils sachent qu'il y a un endroit où ils peuvent se reposer, bien manger, où ils sont les bienvenus. Lorsqu'ils sont là, j'ai besoin qu'ils soient autonomes et qu'ils prennent soin du lieu. *Caroline*
 
