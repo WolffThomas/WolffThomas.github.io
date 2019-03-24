@@ -3,7 +3,8 @@ layout: post
 title: 'Thomas Wolff - ouverture du blog'
 ---
 
-# Ouverture du blog
+Ouverture du blog
+===
 
 *13 ans d'écriture de carnets papier*
 
@@ -43,7 +44,8 @@ mars 2015.</span> Ci contre, à l'école d'ingénieurs du
 notes évoquées ci dessus pour proposer aux élèves d'observer sous
 hypnose leurs mécanismes psychologiques.
 
-## Engagements et aspirations
+Engagements et aspirations
+---
 
 Début septembre, nous nous sommes retrouvés avec *Stéphane Riot* sur le
 tour du [Ticket for change](http://www.ticketforchange.org/). Je n'étais
