@@ -18,7 +18,7 @@ Je suis nomade en famille, beaucoup dans la nature, (j'ai donc peu internet) et 
 
 ## À réaliser
 
-* pousser sur github pages avec mon nom de domaine http://thomasw.fr
+* pousser sur github pages avec mon nom de domaine http://twolff.fr
 * tester pour voir si ça me donne plus envie d'écrire en format web que format papier (j'écris tous les jours sur carnet, donc on verra bien)
 * comprendre l'histoire des flux RSS - j'ai vu que c'était de base avec Jekyll mais j'ai envie de comprendre comme ça fonctionne
 
