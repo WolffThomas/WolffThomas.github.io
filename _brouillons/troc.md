@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coups de main
-permalink: /coups-de-main/
+permalink: -/
 ---
 
 Coups de main & trocs équivalent temps

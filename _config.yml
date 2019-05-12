@@ -13,3 +13,4 @@ gems:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
+  - liquid_reading_time
